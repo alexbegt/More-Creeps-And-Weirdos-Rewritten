@@ -1,0 +1,17 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "transform": "forge:default-item",
+        "model": "forge:item-layer"
+    },
+    "variants": {
+        "particle_bubble": [{ "textures": { "layer0": "mcawrb:items/particles/bubble" }}],
+        "particle_smoke": [{ "textures": { "layer0": "mcawrb:items/particles/smoke" }}],
+        "particle_red": [{ "textures": { "layer0": "mcawrb:items/particles/red" }}],
+        "particle_black": [{ "textures": { "layer0": "mcawrb:items/particles/black" }}],
+        "particle_yellow": [{ "textures": { "layer0": "mcawrb:items/particles/yellow" }}],
+        "particle_blue": [{ "textures": { "layer0": "mcawrb:items/particles/blue" }}],
+        "particle_shrink": [{ "textures": { "layer0": "mcawrb:items/particles/shrink" }}],
+        "particle_barf": [{ "textures": { "layer0": "mcawrb:items/particles/barf" }}]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "transform": "forge:default-item",
+        "model": "forge:item-layer"
+    },
+    "variants": {
+        "achievement_pig": [{ "textures": { "layer0": "mcawrb:items/achievements/pig" }}],
+        "achievement_pyramid": [{ "textures": { "layer0": "mcawrb:items/achievements/pyramid" }}],
+        "achievement_floob": [{ "textures": { "layer0": "mcawrb:items/achievements/floob" }}],
+        "achievement_rockmonster": [{ "textures": { "layer0": "mcawrb:items/achievements/rockmonster" }}],
+        "achievement_bubble": [{ "textures": { "layer0": "mcawrb:items/achievements/bubble" }}],
+        "achievement_hotdog": [{ "textures": { "layer0": "mcawrb:items/achievements/hotdog" }}],
+        "achievement_camel": [{ "textures": { "layer0": "mcawrb:items/achievements/camel" }}],
+        "achievement_zebra": [{ "textures": { "layer0": "mcawrb:items/achievements/zebra" }}],
+        "achievement_nonswimmer": [{ "textures": { "layer0": "mcawrb:items/achievements/nonswimmer" }}],
+        "achievement_caveman": [{ "textures": { "layer0": "mcawrb:items/achievements/caveman" }}]
+    }
+}
